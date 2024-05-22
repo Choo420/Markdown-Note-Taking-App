@@ -9,7 +9,7 @@ Deletes notes.
 
 ## Installation:
 
-Clone this repository using git clone https://github.com/<username>/markdown-notes.git (replace <username> with your GitHub username).
+Clone this repository using git clone https://github.com/Choo420/markdown-notes.git (replace <username> with your GitHub username).
 Open a terminal and navigate to the project directory using cd markdown-notes.
 No additional library installations are required for basic functionality.
 
